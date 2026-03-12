@@ -1,4 +1,4 @@
 -Hola
 -Soy un NPC
 -Necesitas ayuda?
-["dialogoNPC-NO"]
+["dialogoNPC-NO","DialogoNPC-SI"]
